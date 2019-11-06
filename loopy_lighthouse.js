@@ -7,7 +7,8 @@ for (x = 100; x <= 200; x++){
     console.log('Loopy');
   }else if(x % 4 === 0){
     console.log('Lighthouse');
-  }else {console.log(x)
+  }else{
+    console.log(x)
   }
 
   
